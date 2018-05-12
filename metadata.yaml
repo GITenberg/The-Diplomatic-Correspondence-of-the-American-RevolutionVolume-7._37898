@@ -1,0 +1,27 @@
+_repo: The-Diplomatic-Correspondence-of-the-American-RevolutionVolume-7._37898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Sparks, Jared
+    birthdate: 1789
+    deathdate: 1866
+    gutenberg_agent_id: '32656'
+    url: http://www.gutenberg.org/2009/agents/32656
+description: ''
+gutenberg_issued: '2011-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- 1775-1783'
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+title: The Diplomatic Correspondence of the American Revolution, Vol. 07
+url: http://www.gutenberg.org/ebooks/37898
